@@ -1,0 +1,4 @@
+listaPersonas.html
+altasPersonas.html
+bajasPersonas.html
+prestamos.html
